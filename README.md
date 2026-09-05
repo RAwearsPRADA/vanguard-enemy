@@ -6,17 +6,6 @@
 > 
 > Vanguard interprets this raw socket manipulation as a malicious network exploit. Running this tool alongside the Riot Client **WILL TRIGGER AN INSTANT BAN**. The author personally experienced a 20-minute near-death ban that caused severe emotional damage and temporary heart failure over lost skin collections. **YOU HAVE BEEN WARNED.**
 
----
-
-## 🧘‍♂️ Feature Showcase: The "Touch Grass" Protocol
-
-Are you deeply addicted to Valorant? Are you tired of losing your mental health in SoloQ? Can't stop queuing up for "just one more match"? 
-
-This repository is officially rebranded as a **Digital Detox and Anti-Addiction Utility**. It is a 100% working method to force yourself to quit the game and finally touch some grass outside. 
-
-* **Advanced Packet Shredding:** Attempts to sneak past government DPI hardware.
-* **Instant Free Time Generator:** Triggers Vanguard's Ring-0 anxiety button, offering you a sudden 20-minute (or permanent) forced vacation from Riot Games.
-* **Wallet Protection:** Ensures you will never spend another dime on weapon skins by locking you out of the server entirely.
 
 ---
 
